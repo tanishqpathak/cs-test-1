@@ -1,4 +1,4 @@
-USE AGENTIC_AI;
+USE DUMMY_DB;
 
 -- Users table
 CREATE TABLE IF NOT EXISTS users (
