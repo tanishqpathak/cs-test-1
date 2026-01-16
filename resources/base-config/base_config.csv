@@ -1,2 +1,0 @@
-configKey*,configTag*,module.name*,configValue*,configType*,interfaceConfig(YES/NO)*,isSensitive(true/false)*,cruTag*,Status,Error message
-SAMPLE_BASE_CONFIG,SAMPLE,Sample-App-Module,{},SAMPLE,true,false,product.v.1.6,success
